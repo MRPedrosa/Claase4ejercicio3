@@ -1,2 +1,2 @@
-# Claase4ejercicio3
+# Clase4ProgEjercicio2
 Created with CodeSandbox
